@@ -1,0 +1,5 @@
+comparison,metric,mean_difference,ci95_low,ci95_high,bootstrap_replicates
+Hybrid-SAW minus AHP-weighted TOPSIS,spearman,0.0043506117908787304,0.0038852057842046497,0.0048244716351501325,10000
+Hybrid-SAW minus AHP-weighted TOPSIS,top5_overlap,-0.028000000000000004,-0.03900000000000001,-0.0166,10000
+Hybrid-SAW minus AHP-weighted TOPSIS,exact_top5,-0.048,-0.079,-0.017,10000
+Hybrid-SAW minus AHP-weighted TOPSIS,mean_rank_change,-0.22906666666666667,-0.24559999999999998,-0.21266499999999997,10000
