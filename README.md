@@ -1,6 +1,6 @@
-# Paper 51 — new synthetic experiment
+# GIS-MCDA for humanitarian demining prioritization
 
-This is a NEW experiment, not a reconstruction of the lost original dataset, generator, AHP matrix, or 1,000 runs. All outputs must be treated as new results. Replace the corresponding article tables and claims only after reviewing the new results. Do not represent them as the former experiment.
+This repository contains the synthetic dataset, code, and results supporting the revised manuscript. The dataset and simulations were generated for the revision; they do not reconstruct the original submission's experiment.
 
 ## Run
 
