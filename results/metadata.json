@@ -1,0 +1,11 @@
+{
+  "dataset_seed": 20261106,
+  "perturbation_seed": 42042,
+  "bootstrap_seed": 8214,
+  "runs": 1000,
+  "bootstrap_replicates": 10000,
+  "AHP_CR_RI_1_45": 0.004646210587360298,
+  "numpy": "2.3.5",
+  "pandas": "2.2.3",
+  "note": "New synthetic experiment; not the original data or original results."
+}
